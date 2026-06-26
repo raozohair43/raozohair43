@@ -15,6 +15,12 @@ Angular · Node.js · Express 5 · TypeScript · Multer · Prisma
 **[ILEARN](https://github.com/raozohair43/ilearn)** — AI-driven personalized learning platform (Final Year Project)  
 Angular · Tailwind CSS
 
+**[Portfolio](https://github.com/raozohair43/Portfolio)** — Personal developer portfolio · [Live Demo](https://0prsnlportfolio.netlify.app/)  
+React · Vite · Tailwind CSS · Framer Motion
+
+**[Course Curriculum](https://github.com/raozohair43/Course-Curriculum-page)** — React learning platform · [Live Demo](https://progcurriculumpg.netlify.app/)  
+React · Vite · Tailwind CSS · Framer Motion
+
 ---
 
 ## Tech Stack
