@@ -1,16 +1,31 @@
-## Hi there 👋
+# Zohair Ashraf — Full Stack Developer
 
-<!--
-**raozohair43/raozohair43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular · Node.js · TypeScript · PostgreSQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[TaskFlow](https://github.com/raozohair43/Multi-Tenant-Saas-Platform)** — Multi-tenant SaaS project management platform  
+Angular · Node.js · Express · PostgreSQL · Prisma · JWT · RBAC
+
+**[SecureDocs](https://github.com/raozohair43/Secure-Document-Management-System-DMS-)** — Secure document management system  
+Angular · Node.js · Express 5 · TypeScript · Multer · Prisma
+
+**[ILEARN](https://github.com/raozohair43/ilearn)** — AI-driven personalized learning platform (Final Year Project)  
+Angular · Tailwind CSS
+
+---
+
+## Tech Stack
+
+**Frontend:** Angular, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** PostgreSQL, Prisma ORM  
+**Auth:** JWT, RBAC, Bcrypt  
+**AI Tools:** Claude Code CLI, OpenAI Codex, Cursor  
+
+---
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/zohair-ashraf/) · raozohair43@gmail.com
